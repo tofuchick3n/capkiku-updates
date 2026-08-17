@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>capkiku</title>
+        <item>
+            <title>1.0.5</title>
+            <pubDate>Mon, 17 Aug 2026 21:24:00 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="15mikmDVJqbZJTLD19koGGFt/wxX+VGfZc8ZZyA0Mu/G5lVCjfrBjq/mIBQ5RZuMbxHc1mVTU46Kr7V/VPdQBg==" sparkle:length="336">https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.5.md</sparkle:releaseNotesLink>
+            <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.5.zip" length="1974349" type="application/octet-stream" sparkle:edSignature="9fgW1e7L3BsO4Njh1YPBC80ow4aPwejALW/+xir8XeL/hCLDRnyl/3dOz85p7c5ajrhz2y7xrp6+cyyKFlPJCw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: rp9KS6dHTw6c5liSSKDT6h08bdz5N4ELqDYMjnoQQk4yy3cInastv2o6vvQjmFEL0lT+BWVSTfRCevQbLrdhCw==
+length: 1362
+-->
