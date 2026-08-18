@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>capkiku</title>
         <item>
+            <title>1.0.7</title>
+            <pubDate>Tue, 18 Aug 2026 11:51:48 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="7hVz15csgp7IzXoe8IqsO9/A+R2nBU/jGgM/c2XlNjZp+n4GsxaTJURTkK7nJjtE2ImsgDdeYFjY9ylti9/LAg==" sparkle:length="533">https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.7.md</sparkle:releaseNotesLink>
+            <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.7.zip" length="2015709" type="application/octet-stream" sparkle:edSignature="6cIeKkNuSK6r5qaD42Fea56IrzDVWeQmwfdl0FGCTXG+vrXjEY1HHHW7VX4R9EYrc/nI40JE/6nv8LEAyNW6CA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku8-7.delta" sparkle:deltaFrom="7" length="74610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8k+5OQkauEeYAULAOF/sLQAmqAQIEMu38IsIgcMXfEcsrzNh6ya3PmgbWTb1PSvTlP8gpDUej7LkJE7xapEBBA=="/>
+                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku8-6.delta" sparkle:deltaFrom="6" length="166234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gcIfzIJ1auGOOG+LPfWx4yXWkn8d2ZsJWt2QT8wloreTEcFAGWeh5qnKMN9OF/Xgy0rZHjeHFyGPb+O6K0Q9BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Tue, 18 Aug 2026 10:27:53 +0200</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -31,6 +45,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 1AYr2Uj+gogCi5fNaVJWpehX3dlYotMhfSmTbZliNOOSaMI5vQ5p3Haqy0tNnxqtys9V3cNOhbFvfejgU6iGAQ==
-length: 2718
+edSignature: 859DripAEBkduSJdnCfqe3A3HYMjCwemgQ4hTQ+eH+jc86b2YYLYxhxPfdiKScDFAyhI0K3OrEX7W9Sv5N6fCA==
+length: 4463
 -->
