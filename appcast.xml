@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>capkiku</title>
         <item>
+            <title>1.0.8</title>
+            <pubDate>Tue, 18 Aug 2026 22:22:28 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="skcDt4U+ouoWfv9T7Dxxk68mtXoNnOVIJ15NJWXM3lub7Fh/YGM3PcsaVUH3CL77Ns4tfnlAztNQ7oecnj9iAA==" sparkle:length="1674">https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.8.md</sparkle:releaseNotesLink>
+            <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.8.zip" length="2079413" type="application/octet-stream" sparkle:edSignature="z3DTn8WoIKIlzSY45kPMuahcITEsG9YCM04CDAo73FoIg5YE8hyB096wrzKnaYJ1AG64Ddko/cWiks2tbNhmAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku9-8.delta" sparkle:deltaFrom="8" length="405878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UZNqVbQ4mDUqSDZNfjLu+bw9Ub/sydwHGXus7iT/l7gzxXh5GSZvjp9nOY/ihFuZ+A7YbdBNd8MvGuHyiGOKDg=="/>
+                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku9-7.delta" sparkle:deltaFrom="7" length="404294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IKJ7haeNeC4KkwGrM/01KFLNHuFHaf35xKbmkpWVX4eTnY9/JcnH4068q1Kcdyc4NCSYgpP8PExxbeKunGDXAA=="/>
+                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku9-6.delta" sparkle:deltaFrom="6" length="413774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="plH6HPp/98xug8Q3HjFEssUxCFPBO4OkyjEQAKQSnUXc/qY1VnsfpEWBJTxHmoeykd7GJXxymTJLOa3BHkurBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.7</title>
             <pubDate>Tue, 18 Aug 2026 11:51:48 +0200</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -32,19 +47,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
                 <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku7-6.delta" sparkle:deltaFrom="6" length="163686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FJ1RZ3RdMavTsPmu6u7CB6uCR0TdeyUT6vWDVY8MzeAffAZ2CJSfSzCFXNKjIQmAnXYuccO4RA7jg4SNOQiFDQ=="/>
             </sparkle:deltas>
         </item>
-        <item>
-            <title>1.0.5</title>
-            <pubDate>Mon, 17 Aug 2026 21:24:00 +0200</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink sparkle:edSignature="15mikmDVJqbZJTLD19koGGFt/wxX+VGfZc8ZZyA0Mu/G5lVCjfrBjq/mIBQ5RZuMbxHc1mVTU46Kr7V/VPdQBg==" sparkle:length="336">https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.5.md</sparkle:releaseNotesLink>
-            <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.5.zip" length="1974349" type="application/octet-stream" sparkle:edSignature="9fgW1e7L3BsO4Njh1YPBC80ow4aPwejALW/+xir8XeL/hCLDRnyl/3dOz85p7c5ajrhz2y7xrp6+cyyKFlPJCw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 859DripAEBkduSJdnCfqe3A3HYMjCwemgQ4hTQ+eH+jc86b2YYLYxhxPfdiKScDFAyhI0K3OrEX7W9Sv5N6fCA==
-length: 4463
+edSignature: Pq5LdTTGr9r1EPnYpLQxOdjOOXjGK4TbYBjW5u5ko5oUCUr5B/zelA4gJWiv9/cG2CdvviR8MQhCa1ethj97BQ==
+length: 5669
 -->
