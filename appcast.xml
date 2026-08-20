@@ -21,6 +21,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
                 <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku13-9.delta" sparkle:deltaFrom="9" length="633270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UY/1kykwOC+KagtfetaDxY4j7xVp2nfX5JGlICW0XhiVqLqVyZ8k0zrZYJkkpwCf6Hmxdc6laMPnS5PLg276Dg=="/>
                 <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku13-8.delta" sparkle:deltaFrom="8" length="776850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ey5pdnNoPDpiytT/fcAtIuM0/lefU9lO7ibiaU8p92lm3tFw771dSgeUt5V3/Xo5HxhQYrmDD5YcLBMZwVgZBg=="/>
             </sparkle:deltas>
+            <sparkle:releaseNotesLink sparkle:edSignature="gloUSUCVnBXRzEM9HaYdPdQj/urbw/6QLgvri0hYDelk3wVyTZJPjkRdHE/LFvziZl2WDeTcZMTBR5MSrNEIBw==" sparkle:length="2817">https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.12.md</sparkle:releaseNotesLink>
         </item>
         <item>
             <title>1.0.11</title>
@@ -38,6 +39,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
                 <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku12-8.delta" sparkle:deltaFrom="8" length="558210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dCsebj+fw6ypr6dYsC1/JEhwsOFhCE7b9m/C4FQ7K5RPVlI4IORuKQbn2AVMQqVdJ5NcT4EfVhtV5Z854KldAg=="/>
                 <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku12-7.delta" sparkle:deltaFrom="7" length="557098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qylErCmFJh8dAznSuzutelHjJLbdX5EDX2PVB8snkwAmNdXHBHb0RYA154IohgoVYSYpeln1HDaLc0+011uxCQ=="/>
             </sparkle:deltas>
+            <sparkle:releaseNotesLink sparkle:edSignature="XszZXx4Rj3wAmRZCsL9TX9i6likIPctcBIDs6y4j2RpRzjRxLByNgCgD/s+OVkOe29IXeJrQi7doS2QHzMaFAw==" sparkle:length="1363">https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.11.md</sparkle:releaseNotesLink>
         </item>
         <item>
             <title>1.0.10</title>
@@ -59,6 +61,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: QZNEESZIl29Y9Bm8rdwJtrUoXLoenSdffM5Gbk5Xvm+wzYxe91qgarmLEQTlIF5sCcsfT7daRVbHJZW7oWS7Cw==
-length: 8832
+edSignature: pNG1EXUu8IuCwlaQdIj6YUK07ihftxfb/Ibi6QggAXcagau9Lu7IwH5RH2OWbMCnpYObLbiHFjewB8C0MuixCg==
+length: 9356
 -->
