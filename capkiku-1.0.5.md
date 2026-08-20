@@ -1,4 +1,0 @@
-<!-- sparkle-sign-warning:
-IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires updating signatures in appcasts that reference this file! This will involve re-running generate_appcast or sign_update.
--->
-First Sparkle-enabled build. Check for Updates uses a signed public feed. Captures stay on this Mac.
