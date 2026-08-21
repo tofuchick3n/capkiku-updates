@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>capkiku</title>
         <item>
+            <title>1.0.14</title>
+            <pubDate>Fri, 21 Aug 2026 11:18:07 +0200</pubDate>
+            <sparkle:fullReleaseNotesLink>https://capkiku.com/changelog/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="kwyLYs/BQHfvXi1w81sDpPGrUSQdg4pj/dPcxTI6IAWhdgVyeJpMUZBTHQQ9Bq3BnwtXbnZvIgJM1srpQuipAA==" sparkle:length="898">https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.14.md</sparkle:releaseNotesLink>
+            <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.14.zip" length="2359605" type="application/octet-stream" sparkle:edSignature="jFC/un2wzEZqOFl9tAPueXtqSusvt3BflGIkiekW+qOnY+EW8/Bimo6eRzEK4aqK4ipmXfisISAH9rukVxK7AA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku15-14.delta" sparkle:deltaFrom="14" length="268630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Yl1nPROnozXKF/n6m6IlemABQPTdxfpDuDZ6B172JyeJ0EEvbsItWfRFlgTK/3Jakk05/37dX93LWjUv4J/BBA=="/>
+                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku15-13.delta" sparkle:deltaFrom="13" length="269126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zQYcXKc9zslXeDMRc08Bchrrd6YJy1OzxXuDN6iiSwQRgpHdcxyZpXAovcsWFEPfZgCjCxpUh1DbpRG+OQPaCg=="/>
+                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku15-12.delta" sparkle:deltaFrom="12" length="536502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yefuXuih+C4lu2j7WI7PQrekmDmYioNc2CeKYRu2i0USeZ60JBNb9m+ueEFrMJDLoFYkX68RuonUgrGQy1/CBA=="/>
+                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku15-11.delta" sparkle:deltaFrom="11" length="648118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZZRNtlQf8smx1UvCfjr+nASrhPfJCW2O1ssjpynwcIqaQOKI2o44xkTFGwj91Z8VVsUOrqwHJcKUwZupxEbNBQ=="/>
+                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku15-10.delta" sparkle:deltaFrom="10" length="650078" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ePTVvPvZASRhLtMvuIX3X1iG4zBupMvHswPP/zMdtPuCjv9Kwh3d0SvCJki6XUlQt/jILkq0MfOaFjveSjFPBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.13</title>
             <pubDate>Thu, 20 Aug 2026 21:53:33 +0200</pubDate>
             <sparkle:fullReleaseNotesLink>https://capkiku.com/changelog</sparkle:fullReleaseNotesLink>
@@ -41,27 +59,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             </sparkle:deltas>
             <sparkle:releaseNotesLink sparkle:edSignature="gloUSUCVnBXRzEM9HaYdPdQj/urbw/6QLgvri0hYDelk3wVyTZJPjkRdHE/LFvziZl2WDeTcZMTBR5MSrNEIBw==" sparkle:length="2817">https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.12.md</sparkle:releaseNotesLink>
         </item>
-        <item>
-            <title>1.0.11</title>
-            <pubDate>Thu, 20 Aug 2026 01:48:34 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://capkiku.com/changelog</sparkle:fullReleaseNotesLink>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.11.zip" length="2142262" type="application/octet-stream" sparkle:edSignature="OcI3cxavEZGZEPtNwFeTyLgTUfe1UAwrhFQ3OF3BdvgO8+q6Uvo3PFeRdrzg/mJvI+c4SVN3Z6Obu+ZKPA/oCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku12-11.delta" sparkle:deltaFrom="11" length="364846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BKoNk6Vmc8RyMZs6vKQXfqY47b3Mr4Fdp7EDMbHW/iwCCzKvSsCekX4+IVobvEFTJkhv46weSo9Y2yYlU+PeAQ=="/>
-                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku12-10.delta" sparkle:deltaFrom="10" length="364902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="f4D1KBN4vuauvwJN9a1RPaMVosXTyhCW8POZrwNO5lKVbZotLkLiOLpAZvEB8QIKZme4Q5zwEnpFTFp1cPdXAA=="/>
-                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku12-9.delta" sparkle:deltaFrom="9" length="383838" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WrtEilepUyzKuLWofOOClA+ib7+NCzgFWTYd9Pj6mpnSwyzFYt5qNILPD2nrDIPcDXivtRPdIjNFTPJ6Ec50Cw=="/>
-                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku12-8.delta" sparkle:deltaFrom="8" length="558210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dCsebj+fw6ypr6dYsC1/JEhwsOFhCE7b9m/C4FQ7K5RPVlI4IORuKQbn2AVMQqVdJ5NcT4EfVhtV5Z854KldAg=="/>
-                <enclosure url="https://tofuchick3n.github.io/capkiku-updates/capkiku12-7.delta" sparkle:deltaFrom="7" length="557098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="469904" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qylErCmFJh8dAznSuzutelHjJLbdX5EDX2PVB8snkwAmNdXHBHb0RYA154IohgoVYSYpeln1HDaLc0+011uxCQ=="/>
-            </sparkle:deltas>
-            <sparkle:releaseNotesLink sparkle:edSignature="XszZXx4Rj3wAmRZCsL9TX9i6likIPctcBIDs6y4j2RpRzjRxLByNgCgD/s+OVkOe29IXeJrQi7doS2QHzMaFAw==" sparkle:length="1363">https://tofuchick3n.github.io/capkiku-updates/capkiku-1.0.11.md</sparkle:releaseNotesLink>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 1/+ByPka8aY1qbcxgTjFIDFnn7DVu34hRg+r5CzJot8JQkfgXz+IYR/3jWS3xOsGi4gYqpqeYrDWuSS6P6V+Dg==
-length: 9465
+edSignature: CRZ0C27tBGO6zVr64fCrn8/SqBxMnUCL2bsxuKHd1zcBMByDIttSDSJ9Fl3Pf1g5G/YLH4PhL4/IHWinmF0SDQ==
+length: 9471
 -->
