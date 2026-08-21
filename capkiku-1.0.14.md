@@ -10,4 +10,3 @@ capkiku 1.0.14
 ### Fixed
 
 - The website permissions list now says capkiku asks for Accessibility for scrolling capture. It had been listed under Never asks for.
-- capkiku.com now publishes the changelog only at `/changelog/`. `/changelog.html` is not a second page. Every content page has a canonical URL with a trailing slash.
